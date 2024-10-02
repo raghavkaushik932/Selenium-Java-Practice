@@ -7,4 +7,5 @@ Next This is the reference document where Setup for an automation project and we
 [Setup and Webdriver explanation2.txt](https://github.com/user-attachments/files/17179394/Setup.and.Webdriver.explanation2.txt)
 
 Next step is to learn about Java fundamentals-
-1.Java Variables-[Variables and Data Type.txt](https://github.com/user-attachments/files/17179827/Variables.and.Data.Type.txt)
+1.Java Variables-[Uploading Let's discuss variable in Java ,tha.txt…]()
+
