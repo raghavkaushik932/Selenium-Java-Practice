@@ -12,4 +12,4 @@ Next step is to learn about Java fundamentals-
 
 2.Array is an important topic in Java.Basics of array in Java -[Array.txt](https://github.com/user-attachments/files/17228328/Array.txt)
 
-3.After discussing array discuss about array list part of Java.-Why Array list is required ?-[Array and array list.txt](https://github.com/user-attachments/files/17252134/Array.and.array.list.txt)
+3.After discussing array discuss about array list part of Java.-Why Array list is required ?-
