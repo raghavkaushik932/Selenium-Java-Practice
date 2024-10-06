@@ -18,3 +18,9 @@ Next step is to learn about Java fundamentals-
 4.String and its methods are crucial topics in Java-
 [String and String Method.txt](https://github.com/user-attachments/files/17264714/String.and.String.Method.txt)
 
+5.One of the crucial and important topic in Java is Classes and its objects . In these articles  mentioned that how methods are created and how can we call the method.
+
+[Classes and its objects.txt](https://github.com/user-attachments/files/17269793/Classes.and.its.objects.txt)
+
+
+
