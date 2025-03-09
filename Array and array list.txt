@@ -1,0 +1,46 @@
+if we are initializing an array the size of an array is fixed in initializing
+int[] arr=new int[5];
+
+int[]arr2 ={1,2,3,4,5,6,7,122};
+
+With the help of array list we can dymanically grow the size of an array.
+
+Array list is a class in Java
+Array list a=new Array list();
+
+if we want to made array list of Sting-
+
+Array list<String>a =new Array list();
+a.add("Rahul");
+a.add("Shetty");
+a.add("academy");
+a.add("selenium");
+
+System.out.print.ln(a.get(3));
+
+for loop implementation in size:-
+
+for(int i=0;i<a.size();i++) {
+		System.out.println(a.get(i));	
+			}
+		System.out.println(" + ");
+	for(String s:a) {
+			System.out.println(s);
+
+To check whether items is present in the array list we use contains method:-
+
+System.out.print.ln(a.contains("selenium"));
+
+To get the length of array list we use the method size.
+
+	String[]name= {"RAJU","PANKAJ","POONAM"};
+
+if we want to convert this array methods to list-
+String[] name1= {"Rahul","sheety","selenium"};
+List<String>nameArrayList=	Arrays.asList(name1);
+System.out.println(nameArrayList.contains("selenium"));
+
+
+
+
+
