@@ -1,0 +1,46 @@
+Array is an important topic in Java .
+
+If we want to store multiple values in one variable then we use generally this concept of array.
+
+1 way-int[]arr=new int[5];
+arr[0]=10;
+arr[1]=11;
+arr[2]=12;
+arr[3]=13;
+arr[4]=14;
+
+2nd way
+
+int arr={10,20,30,40,50}
+
+in array we have to go by index. Array starts with index.
+
+
+For loop concept in array
+
+for(int i=0;i<array.length;i++)
+
+
+{
+system.out.print.ln(a[i]);
+}
+
+If we want to create array of Stings then Strings []name={"Rahul","Shetty","Selenium"}
+
+Let's discuss about for each loop in Java
+
+for( String s:name)
+{
+System.out.print.ln(s);
+}
+
+
+
+}
+
+Core Java Brushup1
+ 
+
+
+	
+
